@@ -59,7 +59,7 @@ project-root/
 
 Below is the architectural diagram illustrating the flowchart of the entire project:
 
-[![Project Architecture](path_to_diagram)](path_to_full_diagram)
+![Skills_Map Jobs_Scrape ETL Architecture](https://github.com/hassan848/skill-map-ETL/assets/72468804/2e5a5958-89a4-4dd5-a686-37da85a08ac2)
 
 ### Database Schema
 
@@ -84,4 +84,5 @@ The Snowflake database used in this project has the following schema:
 
 You can find detailed analysis and insights in the accompanying POWER BI dashboard. Check out the screenshot below for a glimpse of the skills map and trends in data engineering job postings.
 
-[![POWER BI Dashboard](path_to_screenshot)](path_to_full_dashboard)
+![Data Engineer Jobs Analysis](https://github.com/hassan848/skill-map-ETL/assets/72468804/40042c0e-19cf-4325-9a46-df66350b2b1f)
+
