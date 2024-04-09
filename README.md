@@ -59,7 +59,7 @@ project-root/
 
 Below is the architectural diagram illustrating the flowchart of the entire project:
 
-[![Project Architecture](path_to_diagram)](path_to_full_diagram)
+![image](https://github.com/hassan848/skill-map-ETL/assets/72468804/3fa3eefd-a504-4e9d-a479-f651bb064a72)
 
 ### Database Schema
 
