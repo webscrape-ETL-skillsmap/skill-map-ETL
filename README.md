@@ -59,7 +59,7 @@ project-root/
 
 Below is the architectural diagram illustrating the flowchart of the entire project:
 
-![image](https://github.com/hassan848/skill-map-ETL/assets/72468804/3fa3eefd-a504-4e9d-a479-f651bb064a72)
+![Skills_Map Jobs_Scrape ETL Architecture](https://github.com/hassan848/skill-map-ETL/assets/72468804/2e5a5958-89a4-4dd5-a686-37da85a08ac2)
 
 ### Database Schema
 
